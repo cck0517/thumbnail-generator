@@ -1,6 +1,8 @@
 # Video thumbnail generator
 Generate thumbnail sprites from videos.
 
+# This is a video thumbnail generator written by others, I put them in this repository to add a new user interface
+
 ## Why
 
 ![image](https://cloud.githubusercontent.com/assets/244265/11234416/b1a67230-8d95-11e5-97a4-c2acdcbf72f7.png)
